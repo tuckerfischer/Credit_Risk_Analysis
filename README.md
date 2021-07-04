@@ -56,3 +56,5 @@ The balanced accuracy score for this model was 0.93, the precision was 0.99 and 
 
 
 ## Summary
+
+In this challenge we used a plethora of models to find the one that would predict credit card fraud the best. For credit card fraud you would want a model that is accurate, precise and sensitive. Because of this the model we would want to use in the future is the Easy Ensemble AdaBoost Classifier as the scores are all in the 90's. 
